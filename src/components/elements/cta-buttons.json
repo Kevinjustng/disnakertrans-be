@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_elements_cta_buttons",
+  "info": {
+    "displayName": "CtaButtons"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "isExternal": {
+      "type": "boolean"
+    },
+    "ctachild": {
+      "type": "component",
+      "component": "elements.cta-child",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_elements_cta_children",
+  "info": {
+    "displayName": "cta-child"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "isExtrenal": {
+      "type": "boolean"
+    }
+  },
+  "config": {}
+}

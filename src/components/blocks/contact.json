@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_blocks_contacts",
+  "info": {
+    "displayName": "contact"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "map": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

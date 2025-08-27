@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_elements_postheadlines",
+  "info": {
+    "displayName": "postheadline"
+  },
+  "options": {},
+  "attributes": {
+    "postheadline": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

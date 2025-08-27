@@ -1,14 +1,13 @@
 {
   "kind": "singleType",
-  "collectionName": "abouts",
+  "collectionName": "homes",
   "info": {
-    "singularName": "about",
-    "pluralName": "abouts",
-    "displayName": "about",
-    "description": "Write about yourself and the content you create"
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "home"
   },
   "options": {
-    "draftAndPublish": false
+    "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
@@ -21,8 +20,8 @@
     "blocks": {
       "type": "dynamiczone",
       "components": [
-        "blocks.hero-section",
         "blocks.pimpinan-opd",
+        "blocks.hero-section",
         "blocks.contact"
       ]
     }
